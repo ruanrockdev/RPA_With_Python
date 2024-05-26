@@ -23,3 +23,5 @@ if result3:
     print("Telefone com DDD é: " + result3.group())
 else:
     print("Telefone não encontrado")
+
+# Regex é um padrão complicado a princípio mas depois é a melhor coisa que tem

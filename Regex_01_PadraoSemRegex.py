@@ -1,5 +1,5 @@
 # Encontrando padrão sem Regex (DD) XXXXX-XXXX
-# Alterei
+# Esse Método é pra mostrar o tanto que usar regex facilita a codar e encontrar padrões
 
 def is_phone_number(text):
     if len(text) != 15:

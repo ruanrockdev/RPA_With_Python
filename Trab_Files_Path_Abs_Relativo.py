@@ -22,3 +22,9 @@ print(p.parents)
 # Nome do arquivo com extenção:
 file = "c:\\users\\prof\\exercicio.py"
 print(os.path.basename(file))
+
+# Retorna o diretório do arquivo
+print(os.path.dirname(file))
+
+# retornar uma tupla com 1 elemento é o caminho e o 2 é o nome com extensão do arquivo
+print(os.path.split(file))

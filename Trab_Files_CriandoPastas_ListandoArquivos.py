@@ -24,3 +24,4 @@ for filename in p.glob("*.md"):
     print(filename)
 
 # teste commit
+print("Teste")

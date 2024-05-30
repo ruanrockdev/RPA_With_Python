@@ -21,3 +21,5 @@ with open("soneto.txt", encoding="utf8") as f:
     while line:  # Aqui temos um while enquanto tiver linha pra ler no arquivo
         print(line)
         line = f.readline()
+
+f.close()

@@ -22,6 +22,3 @@ print(os.path.getsize("README.md"))
 p = Path()
 for filename in p.glob("*.md"):
     print(filename)
-
-# teste commit
-print("Teste")

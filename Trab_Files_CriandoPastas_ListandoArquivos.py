@@ -23,4 +23,6 @@ p = Path()
 for filename in p.glob("*.md"):
     print(filename)
 
-#
+
+class testeClasse:
+    pass

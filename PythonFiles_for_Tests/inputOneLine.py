@@ -14,4 +14,5 @@ elif nIdade >= 50:
 else:
     sComentario = "Você ainda está novo!"
 
-print(f"Olá {sNome}, você tem {nIdade} Anos. {sComentario}")
+# Brincando com print F colocando \n pra pular a linha
+print(f"Olá {sNome}.\nVocê tem {nIdade} Anos.\n{sComentario}")

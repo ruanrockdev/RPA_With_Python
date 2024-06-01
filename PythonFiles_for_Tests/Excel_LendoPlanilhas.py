@@ -17,3 +17,6 @@ print("Quantidade de Linhas:", sheet.max_row)
 
 # Retorna a quantidade de colunas com dados
 print("Quantidade de Colunas:", sheet.max_column)
+
+# Retorna valores de celulas específicas
+print(sheet["A1"].value)

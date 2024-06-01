@@ -1,0 +1,1 @@
+Atenção, para executar o robo basta copiar o arquivo gerador.py para qualquer pasta aonde deseja criar as provas e executar, o robo cria os arquivos na pasta raiz aonde estiver.

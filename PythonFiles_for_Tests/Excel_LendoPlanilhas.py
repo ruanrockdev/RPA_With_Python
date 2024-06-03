@@ -68,3 +68,5 @@ for c1, c2, c3 in cells:
 print(list(sheet.columns)[1])
 for c in list(sheet.columns)[1]:
     print(c.value)
+
+# Usar modos para planilha dos mais variados

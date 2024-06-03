@@ -69,4 +69,4 @@ print(list(sheet.columns)[1])
 for c in list(sheet.columns)[1]:
     print(c.value)
 
-# Usar modos para planilha dos mais variados, inclusive
+# Usar modos para planilha dos mais variados, inclusive, cria tasks genéricas para agilizar o processo de robotização das coisas.

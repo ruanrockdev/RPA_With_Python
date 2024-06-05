@@ -13,3 +13,5 @@ coluna3 = df['Valor'].tolist()
 print(coluna1)
 print(coluna2)
 print(coluna3)
+
+#

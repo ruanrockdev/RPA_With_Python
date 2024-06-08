@@ -1,4 +1,4 @@
-# Arquivo para abrir PDF
+# Arquivo para abrir PDF, esse método é atualizado
 import PyPDF2
 
 pdfFileObj = open('python_tutorial.pdf', 'rb')

@@ -6,4 +6,6 @@ pdfReader = PyPDF2.PdfReader(pdfFileObj)
 print(len(pdfReader.pages))
 pageObj = pdfReader.pages[1]
 print(pageObj.extract_text())
+
+# Fecha o arquivo PDF
 pdfFileObj.close()
